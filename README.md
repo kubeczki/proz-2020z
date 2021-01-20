@@ -1,2 +1,12 @@
-# proz-2020z
-Repozytorium do projektu z PROZ
+# Project template PROZ
+
+## Run
+```bash
+./gradlew run
+```
+
+## Test
+
+```bash
+./gradlew test
+```
